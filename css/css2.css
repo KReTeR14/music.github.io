@@ -1,0 +1,11 @@
+input.submit{
+    background-color:lime;
+    color: cornsilk;
+    align-items: center;
+   border-radius: 10px;
+    width: 100px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

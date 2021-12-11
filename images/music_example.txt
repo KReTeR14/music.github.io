@@ -1,0 +1,33 @@
+<table class="gamestable" border="0" cellpadding="50">
+    <tr>
+        <td>
+            <img src="main_page_images/app4logo.png" alt="Spotify" width="100px" height="100px">
+        <p><b><big>Spotify</big></b><br>
+        <sup>Santa Monica,  4.5	&#8902; 13<sup>+</sup><br><br><a style="color: white; text-decoration: none;" href="https://oceanofgamesu.com/god-of-war-4-pc-game-download/"target="_blank"><br>
+            <button>Install</button></a></p></td>
+
+
+       
+       <td> <img src="main_page_images/app5logo.png" alt="Wynk" width="100px" height="100px">
+        <p><b><big>Wynk Music</big></b><br>
+        <sup>Santa Monica,  4.5	&#8902;, 13<sup>+</sup><br><a style="color: white; text-decoration: none;" href="https://oceanofgamesu.com/god-of-war-4-pc-game-download/"target="_blank"><br>
+            <button>Install</button></a></p></td>
+        
+        
+        <td><img src="main_page_images/resso.jpg" alt="Resso" width="100px" height="100px">
+        <p><b><big>Resso</big></b><br>
+        <sup>Santa Monica,  4.5 &#8902; 13<sup>+</sup><br><a style="color: white; text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.moonvideo.android.resso&hl=en_IN&gl=US"target="_blank"><br>
+            <button>Install</button></a></p></td>
+
+
+       
+       <td> <img src="main_page_images/ganna.png" alt="Ganna" width="100px" height="100px">
+        <p><b><big>Ganna</big></b><br>
+        <sup>Santa Monica,  4.5	&#8902;, 13<sup>+</sup><br><a style="color: white; text-decoration: none;" href="https://play.google.com/store/apps/details?id=com.gaana&hl=en_IN&gl=US"target="_blank"><br>
+            <button>Install</button></a></p>
+        </td>
+        
+        
+    </tr>
+
+</table>
